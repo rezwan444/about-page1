@@ -1,0 +1,17 @@
+.circle {
+  z-index: 100;
+}
+
+.image {
+  transform: scale(1);
+  margin-top: -120px;
+  z-index: 0;
+}
+
+body{
+  background-color: #FAF5F3;
+}
+
+.bg{
+  background-color: #A1D0B9;
+}
